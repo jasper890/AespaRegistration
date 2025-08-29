@@ -1,5 +1,4 @@
 ﻿using AespaRegistration.Models;
-using BCrypt.Net;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
